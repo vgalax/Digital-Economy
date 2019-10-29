@@ -35,4 +35,4 @@
 1. [ГОСТ Р ИСО/МЭК 8824-3-2002 Информационная технология. Абстрактная синтаксическая нотация версии один](http://www.rugost.com/index.php?option=com_content&view=article&id=99:8824-3-2002&catid=22&Itemid=53)
 1. [ГОСТ Р ИСО/МЭК 10746-3-2001 Управление данными и открытая распределенная обработка](http://www.rugost.com/index.php?option=com_content&view=article&id=100:10746-3-2001&catid=22&Itemid=53)
 1. [ГОСТ Р ИСО/МЭК 15271-02 Процессы жизненного цикла программных средств](http://www.rugost.com/index.php?option=com_content&view=article&id=101:15271-02&catid=22&Itemid=53)
-1. [ГОСТ Р ИСО/МЭК 15910-2002 Процесс создания документации пользователя программного средства](http://www.rugost.com/index.php?option=com_content&view=article&id=102:15910-2002&catid=22&Itemid=53)
+1. [ГОСТ Р ИСО/МЭК 15910-2002 Процесс создания документации пользователя программного средства](http://www.rugost.com/files/15271-02.pdf)
